@@ -1,6 +1,6 @@
 #!/bin/bash
 cd ~/scripts
-httrack -i http://iboxbd.live/
+httrack -i https://reddit3.sportshub.stream/
 cd iboxbd.live
 echo "" > IPTV.m3u
 echo "#EXTM3U" >> IPTV.m3u
